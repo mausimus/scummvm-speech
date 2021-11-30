@@ -2,7 +2,7 @@
 
 Use Windows Speech Recognition with ScummVM to dictate commands instead of typing in text parser adventure games.
 
-See demonstration below:
+Click to play video demonstration:
 
 [![ScummVM w/ Speech Recognition](https://img.youtube.com/vi/OrVUMkB--Ic/0.jpg)](https://www.youtube.com/watch?v=OrVUMkB--Ic "ScummVM w/ Speech Recognition")
 
@@ -28,6 +28,8 @@ Go through the microphone setup and training to make sure it works as best as it
 
 3. Download the ScummVM Speech Recognition Bridge tool below.
 
+    https://github.com/mausimus/scummvm-speech/releases/download/v0.1/ScummVM.Speech.Bridge.zip
+    
 4. Start up ScummVM, the Bridge and Windows Speech Recognition app.
 
 5. Load up a text parser adventure game in ScummVM.
